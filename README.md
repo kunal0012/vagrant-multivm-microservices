@@ -56,3 +56,11 @@ All services communicate over a **private network**, simulating a real productio
    cd vagrant-multivm-microservices
 3. Run command "vagrant up" in your terminal (I used Git Bash) it will start all the Virtual Machines.
 4. Use web01 VM IP or VM name (http://web01) in your local browser and it should work!.
+
+## What I Learned
+
+1. Designing multi-tier, multi-VM architectures
+2. Automating Linux server provisioning using shell scripts
+3. Configuring Nginx as a reverse proxy
+4. Managing service dependencies and networking
+5. Understanding the limitations of VM-based infrastructure
